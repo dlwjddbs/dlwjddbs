@@ -22,7 +22,7 @@
 [![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&link=https://github.com/9m1i9n1)](https://github.com/9m1i9n1) 
 [![JQuery](https://img.shields.io/badge/-JQuery-blue?style=flat&logo=jquery&link=https://github.com/9m1i9n1)](https://github.com/9m1i9n1) 
 [![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&link=https://github.com/9m1i9n1)](https://github.com/9m1i9n1) 
-[![Figma](https://img.shields.io/badge/-Figma-563D7C?style=flat&logo=figma&link=https://github.com/9m1i9n1)](https://github.com/9m1i9n1) 
+[![Figma](https://img.shields.io/badge/-Figma-FF82FF?style=flat&logo=figma&link=https://github.com/9m1i9n1)](https://github.com/9m1i9n1) 
 
 [![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git&link=https://github.com/9m1i9n1)](https://github.com/9m1i9n1) 
 [![SQL](https://img.shields.io/badge/-SQL-orange?style=flat&logo=sql&link=https://github.com/9m1i9n1)](https://github.com/9m1i9n1)

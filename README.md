@@ -7,7 +7,7 @@
 
 <div align="center">
 
-### Hello, I'm Jungyoon!
+### Hello, I'm Jeongyun!
 ### About Me
 
 ⚡   Junior Backand Developer

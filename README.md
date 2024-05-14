@@ -10,7 +10,7 @@
 ### Hello, I'm Jeongyun!
 ### About Me
 
-⚡   Junior Backand Developer
+⚡   Junior Backend Developer
 
 ### Tech Stack
 

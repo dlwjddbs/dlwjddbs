@@ -15,7 +15,7 @@
 ### Tech Stack
 
 [![Java](https://img.shields.io/badge/Java-orange?style=flat&logo=java&logoColor=white&link=https://github.com/9m1i9n1)](https://github.com/9m1i9n1) 
-[![SpringBoot](https://img.shields.io/badge/-SpringBoot-black?style=flat&logo=spring&logoColor=white&link=https://github.com/9m1i9n1)](https://github.com/9m1i9n1)
+[![SpringBoot](https://img.shields.io/badge/-Springboot-black?style=flat&logo=springboot&link=https://github.com/mintheon)](https://github.com/dlwjddbs)
 [![Spring](https://img.shields.io/badge/-Spring-lightgray?style=flat&logo=spring&link=https://github.com/9m1i9n1)](https://github.com/9m1i9n1)
 
 [![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript&link=https://github.com/9m1i9n1)](https://github.com/9m1i9n1) 
